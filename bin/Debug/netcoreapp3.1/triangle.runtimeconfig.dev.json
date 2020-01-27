@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cadhla/.dotnet/store/|arch|/|tfm|",
+      "/home/cadhla/.nuget/packages"
+    ]
+  }
+}
