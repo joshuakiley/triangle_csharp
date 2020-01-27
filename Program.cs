@@ -6,7 +6,8 @@ namespace triangle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program initiated.");
+            string data = System.IO.File.ReadAllText("./data/sample.txt");
+            Console.WriteLine(data);
 
         }
     }
